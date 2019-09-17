@@ -22,3 +22,11 @@ More information about the diffrent services she provides and who she is and whe
 
 Provide links to external resources, such as the companys social media
 profiles.
+
+
+
+
+Here is links to the pictures i "borrowed".
+
+foot-greenleaf.png - https://www.designevo.com/res/templates/thumb_small/podiatry-foot-and-green-leaf.png
+
