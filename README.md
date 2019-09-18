@@ -31,3 +31,7 @@ Here is links to the pictures i "borrowed".
 foot-greenleaf.png - https://www.designevo.com/res/templates/thumb_small/podiatry-foot-and-green-leaf.png
 
 feet-wide.png - https://unsplash.com/photos/SPTwFiz2U44
+
+sigtuna-gata.jpg - http://resources.mynewsdesk.com/image/upload/c_limit,dpr_2.625,f_auto,h_700,q_auto,w_360/yr1jnk2g4da0vmuflnqk.jpg
+
+the rest of the pictures was taken from my aunts facebook page.
