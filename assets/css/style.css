@@ -4,14 +4,19 @@
 
 /*----------------------------------Colors */
 .navbar {
-    background-color: rgb(16, 100, 255);
+    background-color: rgb(224, 224, 224);
 }
 
 /*----------------------------------diffrent paddings/margins/text */
-
+.row-table {
+    display: table;
+}
 
 /*----------------------------------Heading */
 
+.image-background {
+    background: url(../images/feet-wide.png);
+}
 
 /*----------------------------------Hover effects */
 

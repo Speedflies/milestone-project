@@ -30,3 +30,4 @@ Here is links to the pictures i "borrowed".
 
 foot-greenleaf.png - https://www.designevo.com/res/templates/thumb_small/podiatry-foot-and-green-leaf.png
 
+feet-wide.png - https://unsplash.com/photos/SPTwFiz2U44
